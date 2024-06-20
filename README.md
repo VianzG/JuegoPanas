@@ -26,3 +26,19 @@ El colegio, otrora símbolo de aprendizaje, ha caído presa de una alteración s
 - Programación: Visual Studio Code para desarrollo de código.
 - Modelado 3D: Blender y Maya para crear personajes y escenarios.
 - Postproducción: After Effects y DaVinci para efectos visuales y cinemáticas.
+
+# Herramientas Adicionales:
+- Photoshop: Edición de imágenes y texturas.
+- Trello: Gestión de proyectos.
+- FMOD Studio: Creación y gestión de sonido.
+- Wwise: Middleware de audio interactivo.
+- Houdini: Simulación y efectos visuales.
+- SpeedTree: Modelado de vegetación 3D.
+- Slack: Comunicación y colaboración en equipo.
+- Discord: Comunicación y colaboración en equipo.
+- Jenkins: Integración continua y despliegue continuo (CI/CD).
+- TortoiseSVN: Control de versiones (Subversion).
+
+# Estrategia Adicional
+1. Pruebas de Usuario: Implementar pruebas con un grupo reducido para ajustar jugabilidad.
+2. Actualizaciones Post-lanzamiento: Planificar mejoras basadas en la retroalimentación de los jugadores.
