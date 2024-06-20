@@ -1,7 +1,8 @@
-# JuegoPanas
-## Juego en desarrollo por:
+# Silent Halls
+### Juego en desarrollo por:
 - Andrés González
 - Abraham Sagche
 - Esdras Hernandez
 
-#Idea base
+# Idea base
+En una institución académica antaño próspera, ahora envuelta en tinieblas, se desatan misterios antiguos y horrores innombrables. Los jugadores, al asumir los roles de Ana y Luis, deben navegar por un laberinto de pesadillas y recuerdos, desentrañando secretos oscuros para escapar con vida.
