@@ -1,11 +1,11 @@
-# Silent Halls
+# GARDEN OF WHISPERS
 ### *Juego en desarrollo por:*
 - *Andrés González*
 - *Abraham Sagche*
 - *Esdras Hernandez*
 
 # Idea base
-En una institución académica antaño próspera, ahora envuelta en tinieblas, se desatan misterios antiguos y horrores innombrables. Los jugadores, al asumir los roles de **(__NameGirl&001)** y **(__NameMan&002)**, deben navegar por un laberinto de pesadillas y recuerdos, desentrañando secretos oscuros para escapar con vida.
+---------------------------------------------------------------------------------
 
 # Sinopsis
 El colegio, otrora símbolo de aprendizaje, ha caído presa de una alteración siniestra. **(__NameGirl&001)** y **(__NameMan&002)**, estudiantes atrapados, enfrentan una realidad distorsionada donde el pasado y el presente se entrelazan en un juego mortal. Con la ayuda de cámaras de seguridad y fragmentos de memoria, deben superar desafíos y descubrir la verdad oculta.
@@ -15,11 +15,12 @@ El colegio, otrora símbolo de aprendizaje, ha caído presa de una alteración s
 - **(__NameMan&002):** De mente lógica y analítica, experto en resolver enigmas complejos.
 
 # Mecánicas del Juego
-- **Exploración:** Investigar aulas, laboratorios y sótanos en busca de respuestas.
-- **Cámaras de Seguridad:** Monitorear movimientos y planificar estrategias.
-- **Puzzles:** Resolver acertijos para desbloquear nuevas áreas y progresar.
-- **Sigilo:** Evitar ser detectados por entidades espectrales.
-- **Objetos:** Recolectar y utilizar herramientas esenciales para la supervivencia.
+-
+-
+-
+-
+-
+-
 
 # Desarrollo y Estilo
 - **Motor de Juego:** Unreal Engine 5, garantizando gráficos y atmósferas inmersivas.
