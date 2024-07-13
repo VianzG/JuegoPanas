@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------
 
 # Sinopsis
-El colegio, otrora símbolo de aprendizaje, ha caído presa de una alteración siniestra. **(__NameGirl&001)** y **(__NameMan&002)**, estudiantes atrapados, enfrentan una realidad distorsionada donde el pasado y el presente se entrelazan en un juego mortal. Con la ayuda de cámaras de seguridad y fragmentos de memoria, deben superar desafíos y descubrir la verdad oculta.
+---------------------------------------------------------------------------------
 
 # Personajes principales
 - **(__NameGirl&001):** Sensible al mundo paranormal, su intuición le guía en la oscuridad.
